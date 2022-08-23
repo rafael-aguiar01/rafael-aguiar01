@@ -41,9 +41,8 @@ Originally from Perth Australia 🇦🇺, I now live in Cambridge UK 🇬🇧.
 
 ## Social
 
-<img src="https://raw.githubusercontent.com/feathericons/feather/3c64e93543fab6befab54c3abd013dd8db52509e/icons/external-link.svg?sanitize=true" width="14" height="14" alt="Website Link"> [Website](https://mickey.dev/)  
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4777fda38034a26366f36d7edaedf3a53a134d59/icons/twitter.svg?sanitize=true" width="14" height="14" alt="Twitter Icon"> [Twitter](https://mickey.dev/twitter)  
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4777fda38034a26366f36d7edaedf3a53a134d59/icons/linkedin.svg?sanitize=true" width="14" height="14" alt="LinkedIn Icon"> [LinkedIn](https://mickey.dev/linkedin)  
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4777fda38034a26366f36d7edaedf3a53a134d59/icons/github.svg?sanitize=true" width="14" height="14" alt="GitHub Icon"> [GitHub](https://mickey.dev/github)  
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4777fda38034a26366f36d7edaedf3a53a134d59/icons/keybase.svg?sanitize=true" width="14" height="14" alt="Keybase Icon"> [Keybase](https://mickey.dev/keybase)  
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4777fda38034a26366f36d7edaedf3a53a134d59/icons/mail-dot-ru.svg?sanitize=true" width="14" height="14" alt="Email Icon"> [Email Me!](mailto:j@mickey.dev)
+
+
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4777fda38034a26366f36d7edaedf3a53a134d59/icons/linkedin.svg?sanitize=true" width="14" height="14" alt="LinkedIn Icon"> [LinkedIn](https://www.linkedin.com/in/rafael-aguiar01/)  
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4777fda38034a26366f36d7edaedf3a53a134d59/icons/github.svg?sanitize=true" width="14" height="14" alt="GitHub Icon"> [GitHub](https://github.com/rafael-aguiar01)  
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4777fda38034a26366f36d7edaedf3a53a134d59/icons/mail-dot-ru.svg?sanitize=true" width="14" height="14" alt="Email Icon"> [Email Me!](mailto:rafael.a1@hotmail.com)
