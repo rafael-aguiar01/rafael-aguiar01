@@ -1,9 +1,3 @@
- <div align="center">
-  <a href="github.com/rafael-aguiar01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-aguiar01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-aguiar01&layout=compact&langs_count=7&theme=dark"/></a>
-</div>
-
 ## Hi 👋, I'm Rafael
 
 > Backend Developer
