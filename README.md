@@ -4,6 +4,7 @@
 
 - Developer WH4 Sistemas
 
+
 ### About Me
 
 <!-- I'm a software and infrastructure engineer, hobbyist data scientist, photographer, cyclist, mechanical keyboard enthusiast, and dog owner living in Cambridge, UK. I specialise in container orchestration, software development, continuous delivery, and cloud operations. With over a decade of experience, I have extensive knowledge of a range of technologies within the infrastructure and software engineering spaces, including:
