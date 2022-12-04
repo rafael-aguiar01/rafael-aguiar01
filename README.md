@@ -2,9 +2,6 @@
 
 > Backend Developer
 
-- Developer WH4 Sistemas
-
-
 ### About Me
 
 * JavaScript, TypeScript and MQL5 programming languages
